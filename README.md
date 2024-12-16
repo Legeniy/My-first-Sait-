@@ -1,5 +1,5 @@
 # My-first-Sait-
-This is my first sait. Thank you for your watching))
+Это мой первый сайт! Спасибо за внимание))
 <a 
-    href="firstSait.html"> Welcome!!
+    href="firstSait.html"> Весь экшен здесь!!
     </a>
